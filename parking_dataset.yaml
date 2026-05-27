@@ -1,0 +1,8 @@
+names:
+- space-empty
+- space-occupied
+nc: 2
+path: C:\Users\igore\.cache\kagglehub\datasets\anandpanda3\parking-lot-object-detection-in-yolov8\versions\1
+test: test/images
+train: train/images
+val: valid/images

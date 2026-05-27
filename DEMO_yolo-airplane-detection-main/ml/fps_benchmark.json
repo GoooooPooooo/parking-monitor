@@ -1,0 +1,64 @@
+[
+  {
+    "model": "yolov8n_mod2 (320px)",
+    "type": "detector",
+    "fps": 114.88115291342577,
+    "avg_time_ms": 8.7046480178833,
+    "size_mb": 2.2870864868164062,
+    "run_id": "0839949166a44692890c68e3bf592de7",
+    "imgsz": "320"
+  },
+  {
+    "model": "yolov8n_mod1 (160px)",
+    "type": "detector",
+    "fps": 111.67505500143645,
+    "avg_time_ms": 8.954551219940186,
+    "size_mb": 11.88797664642334,
+    "run_id": "d86dbee65f9b4e70b2c98801d0c74a49",
+    "imgsz": "160"
+  },
+  {
+    "model": "yolov8n_mod1 (320px)",
+    "type": "detector",
+    "fps": 118.42956944343265,
+    "avg_time_ms": 8.44383716583252,
+    "size_mb": 11.88797664642334,
+    "run_id": "939a5278899d48f6863b3145748b76e5",
+    "imgsz": "320"
+  },
+  {
+    "model": "yolov8n_mod1 (160px)",
+    "type": "detector",
+    "fps": 105.1000131804006,
+    "avg_time_ms": 9.51474666595459,
+    "size_mb": 11.88797664642334,
+    "run_id": "d05990654c1e48a0968d30b42416166c",
+    "imgsz": "160"
+  },
+  {
+    "model": "yolov8n_baseline (320px)",
+    "type": "detector",
+    "fps": 76.6963494525404,
+    "avg_time_ms": 13.038430213928223,
+    "size_mb": 11.57719898223877,
+    "run_id": "ab0b06ec65b74c8bb08b1b0031982f5f",
+    "imgsz": "320"
+  },
+  {
+    "model": "yolov8n_mod2 (160px)",
+    "type": "detector",
+    "fps": 127.22105832119806,
+    "avg_time_ms": 7.860333919525146,
+    "size_mb": 2.2870864868164062,
+    "run_id": "9eb2c2f4d7224a24ba322922172cee32",
+    "imgsz": "160"
+  },
+  {
+    "model": "classifier_resnet18",
+    "type": "classifier",
+    "fps": 121.65933157190506,
+    "avg_time_ms": 8.21967363357544,
+    "size_mb": 42.821661949157715,
+    "run_id": "47e7a82258f14e73afaffeff8f41033f"
+  }
+]

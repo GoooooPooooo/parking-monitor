@@ -1,0 +1,110 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.env
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+/static
+
+# Node / React / Vite
+node_modules/
+dist/
+.vite/
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+clean-current-branch.sh
+
+# ML / Models
+*.pt
+*.onnx
+*.pth
+*.bin
+*.ckpt
+runs/
+weights/
+mlartifacts/
+
+# MLflow tracking - игнорируем все кроме конкретных моделей
+mlruns/
+!mlruns/382940614344375127/
+!mlruns/382940614344375127/meta.yaml
+!mlruns/382940614344375127/ebba00ae6cc34263a02bd68be5a19b56/
+!mlruns/382940614344375127/ebba00ae6cc34263a02bd68be5a19b56/**
+!mlruns/382940614344375127/ab0b06ec65b74c8bb08b1b0031982f5f/
+!mlruns/382940614344375127/ab0b06ec65b74c8bb08b1b0031982f5f/**
+!mlruns/382940614344375127/0839949166a44692890c68e3bf592de7/
+!mlruns/382940614344375127/0839949166a44692890c68e3bf592de7/**
+!mlruns/382940614344375127/939a5278899d48f6863b3145748b76e5/
+!mlruns/382940614344375127/939a5278899d48f6863b3145748b76e5/**
+!mlruns/382940614344375127/d05990654c1e48a0968d30b42416166c/
+!mlruns/382940614344375127/d05990654c1e48a0968d30b42416166c/**
+!mlruns/382940614344375127/9eb2c2f4d7224a24ba322922172cee32/
+!mlruns/382940614344375127/9eb2c2f4d7224a24ba322922172cee32/**
+!mlruns/382940614344375127/d86dbee65f9b4e70b2c98801d0c74a49/
+!mlruns/382940614344375127/d86dbee65f9b4e70b2c98801d0c74a49/**
+!mlruns/382940614344375127/47e7a82258f14e73afaffeff8f41033f/
+!mlruns/382940614344375127/47e7a82258f14e73afaffeff8f41033f/**
+!mlruns/382940614344375127/30ca6a8e7b2c4da5a79b76fb2c96e851/
+!mlruns/382940614344375127/30ca6a8e7b2c4da5a79b76fb2c96e851/**
+!mlruns/382940614344375127/47bec581297e4c2da4128660b43dd1d2/
+!mlruns/382940614344375127/47bec581297e4c2da4128660b43dd1d2/**
+
+# Datasets
+ml/data/coco/
+ml/data/coco_airplane/
+ml/data/fgvc_aircraft_imagefolder/
+ml/data/fgvc.tar.gz
+ml/data/fgvc-aircraft-2013b/
+*.zip
+*.tar.gz
+
+# MinIO data
+minio-data/
+
+# Backup
+backup/
+
+# Docker
+.docker/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+
+# Git
+.gitattributes
+
+# Misc
+*.tmp
+*.bak
