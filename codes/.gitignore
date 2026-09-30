@@ -1,0 +1,10 @@
+# Large files and artifacts
+*.mp4
+models/*.pt
+models/*.onnx
+mlruns/
+output_parking.mp4
+
+# Python
+__pycache__/
+*.pyc
