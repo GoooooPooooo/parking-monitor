@@ -21,9 +21,6 @@
 | `codes/` | Исходный код: детектор, зоны, Gradio-UI, видеомониторинг, скрипты разметки, модуль БД |
 | `codes/db/` | Работа с PostgreSQL: схема, репозиторий, CLI, psql-обёртка |
 | `codes/models/` | Веса YOLOv8 (не хранятся в git) |
-| `docs/` | Научно-исследовательская работа и архитектура |
-| `docs/report.md` | Полный отчёт НИР |
-| `docs/architecture.md` | Описание пайплайна и алгоритмов |
 
 ## Быстрый старт
 
@@ -58,7 +55,7 @@ Python 3.12 · Ultralytics YOLOv8 · Gradio · OpenCV · NumPy · Pillow · Post
 
 - `codes/README.md` — подробное описание модулей и запусков
 - `codes/db/README.md` — база данных
-- `docs/report.md`, `docs/architecture.md` — НИР и архитектура
+- `codes/models/README.md` — модели
 
 ## Автор
 
