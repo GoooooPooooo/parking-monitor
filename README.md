@@ -56,8 +56,3 @@ Python 3.12 · Ultralytics YOLOv8 · Gradio · OpenCV · NumPy · Pillow · Post
 - `codes/README.md` — подробное описание модулей и запусков
 - `codes/db/README.md` — база данных
 - `codes/models/README.md` — модели
-
-## Автор
-
-👋 **Игорь Половников** — студент МГТУ им. Н.Э. Баумана.
-Python, Rust, C/C++, ESP32, Django, React; компьютерное зрение и встраиваемые системы.

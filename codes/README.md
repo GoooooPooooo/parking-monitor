@@ -93,7 +93,3 @@ pip install -r requirements.txt
 ## Технологии
 
 Python 3.12 · Ultralytics YOLOv8 · Gradio · OpenCV · NumPy · Pillow · PostgreSQL · SQLAlchemy · pandas · MLflow
-
-## Автор
-
-👋 **Игорь Половников** — студент МГТУ им. Н.Э. Баумана. Разрабатываю полноценные системы: от прошивки микроконтроллеров и компьютерного зрения до веб-интерфейсов. Python, Rust, C/C++, ESP32, Django, React.
